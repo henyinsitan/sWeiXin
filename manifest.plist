@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.henyinsitan.rWeiXin</string>
+				<string>com.henyinsitan.sWeiXin</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>微信自动抢红包</string>
+				<string>sweixin自动抢红包</string>
 			</dict>
 		</dict>
 	</array>
